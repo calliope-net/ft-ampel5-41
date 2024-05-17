@@ -7,7 +7,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/calliope-net/ft-ampel5-41** ein und klicke auf Importieren
+* füge **calliope-net/ft-ampel5-41** ein und klicke auf Importieren
 
 ## Blocks preview
 
